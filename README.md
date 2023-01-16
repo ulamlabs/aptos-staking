@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
 
 
-# Aptos | Staking
+# Aptos Staking
 
 An open source Staking written in the [Move](https://github.com/move-language/move) language for the [Aptos](https://github.com/aptos-labs/aptos-core) blockchain.
 
